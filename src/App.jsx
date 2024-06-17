@@ -1,5 +1,5 @@
 import React from 'react';
-import RecipeList from './components/RecipeList';
+import RecipeList from './components/recipe';
 // import { Link } from 'react-router-dom';
 import './App.css'
 // import '../manifest.json'
